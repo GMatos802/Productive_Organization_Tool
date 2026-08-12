@@ -1,0 +1,8 @@
+começar com uma tela simples
+elementos iniciais para commit n0:
+-> titulo do projeto
+-> breve descrição
+-> lista de tarefas com marcadores de concluido ou nao 
+-> botão para adicionar tarefa 
+-> botao para remover tarefa 
+-> CSS simples
