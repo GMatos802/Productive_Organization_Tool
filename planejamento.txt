@@ -6,3 +6,26 @@ elementos iniciais para commit n0:
 -> botão para adicionar tarefa 
 -> botao para remover tarefa 
 -> CSS simples
+
+commit n1:
+-> adicionar modal de criação de task
+modal deve ter:
+--> nome da task
+--> descrição da task ( o que é para ser feito e como deve ser feito )
+--> tempo estimado de dedicação a task
+--> checkbox de conclusão
+--> marcador de dificuldade da task
+--> botão de concluir criação da task 
+--> botão para limpar informações
+--> botão de cancelar criação "X"
+--> CSS básico
+
+commit n2:
+--> mudar localização dos botões para direita superior
+--> linkar click dos botões aos modais 
+--> mudar localização da janela modal e implementar hidden
+--> criar tabela onde as tasks vao ser organizadas depois de criadas
+
+commit n3:
+--> mudar cor do modal ao alterar fase de conclusão
+--> adicionar campo de feedback depois da task ser concluída
