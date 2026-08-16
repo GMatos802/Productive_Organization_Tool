@@ -22,9 +22,19 @@ button {
     padding: 10px;
     border-radius: 10px;
     border: 0px;
-    
+
 }
 
 li {
     list-style-type: none;
+}
+
+.task_modal {
+    display: flex;
+    flex-direction: column;
+    max-width: 200px;
+    background-color: rgb(216, 216, 216);
+    padding: 20px;
+    border-radius: 20px;
+    gap: 3px;
 }

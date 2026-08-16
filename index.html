@@ -32,5 +32,26 @@
 
     </div>
 
+    <div class="hidden task_modal">
+        <h2>Create a New Task</h2>
+        <label for="t_name">Task:</label>
+        <input type="text" id="t_name">
+        <label for="t_description">Description:</label>
+        <textarea id="t_description" rows="5"></textarea>
+        <label for="t_time">Estimated Time (Minutes):</label>
+        <input type="number" id="t_time">
+        <label for="t_conclusion">Completed:</label>
+        <input type="checkbox" id="t_conclusion">
+        <label for="t_difficulty"></label>
+        <select id="t_difficulty">
+            <option>Easy</option>
+            <option>Medium</option>
+            <option>Hard</option>
+        </select>
+        <button>Create</button>
+        <button>Reset</button>
+        <button>X</button>
+    </div>
+
 </body>
 </html>
